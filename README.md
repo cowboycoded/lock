@@ -5,4 +5,4 @@ lock
  
 # This repository has moved to:
 
-https://github.com/charlotte-ruby/lock[https://github.com/charlotte-ruby/lock/]
+## https://github.com/charlotte-ruby/lock
